@@ -1,2 +1,2 @@
-# Python-Machin-Learning-Study
+# Study Python and Machine Learning
 Python &amp; Machin-Learning Study
